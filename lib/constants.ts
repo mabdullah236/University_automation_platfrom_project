@@ -14,30 +14,65 @@ export const TEACHERS_DATA: Teacher[] = [
     { id: '6', name: 'Clara Oswald', email: 'clara.oswald@university.com', avatar: 'https://picsum.photos/seed/teacher4/100', assignedClasses: ['ENG101', 'LIT305'] },
 ];
 
-export const STUDENTS_DATA: Student[] = [
-  { id: '101', name: 'Alice Johnson', class: 'CS101', attendance: 95, feesPaid: true },
-  { id: '102', name: 'Bob Williams', class: 'CS101', attendance: 82, feesPaid: true },
-  { id: '103', name: 'Charlie Brown', class: 'CS102', attendance: 74, feesPaid: false },
-  { id: '104', name: 'Diana Miller', class: 'CS102', attendance: 88, feesPaid: true },
-  { id: '105', name: 'Ethan Davis', class: 'CS103', attendance: 91, feesPaid: false },
-  { id: '106', name: 'Fiona Garcia', class: 'CS103', attendance: 65, feesPaid: true },
+// --- START: New Randomized Student Data ---
+
+const studentNames = [
+  "Olivia Chen", "Benjamin Carter", "Sophia Rodriguez", "Liam Goldberg", "Ava Nguyen", 
+  "Noah Patel", "Isabella Martinez", "Mason Kim", "Harper Garcia", "Ethan Thompson", 
+  "Amelia Lee", "Alexander Wright", "Mia Scott", "James Green", "Charlotte Adams", 
+  "William Baker", "Evelyn King", "Michael Hill", "Abigail Nelson", "Daniel Campbell"
 ];
 
-export const ATTENDANCE_DATA: AttendanceRecord[] = [
-    { studentId: '101', studentName: 'Alice Johnson', date: '2024-07-28', status: 'Present' },
-    { studentId: '102', studentName: 'Bob Williams', date: '2024-07-28', status: 'Present' },
-    { studentId: '103', studentName: 'Charlie Brown', date: '2024-07-28', status: 'Absent' },
-    { studentId: '104', studentName: 'Diana Miller', date: '2024-07-28', status: 'Present' },
-    { studentId: '105', studentName: 'Ethan Davis', date: '2024-07-28', status: 'Present' },
+const classes = ['CS101', 'CS102', 'PHY201', 'MATH101', 'ENG101', 'STAT210'];
+
+const generatedStudents: Student[] = [
+  // Ensure the mock login student exists so the student dashboard works
+  { id: '200', name: 'Student John', class: 'CS101', attendance: 88, feesPaid: true },
+];
+const generatedFees: FeeRecord[] = [
+  { studentId: '200', studentName: 'Student John', amount: 1250, status: 'Paid', dueDate: '2024-08-20' },
+];
+const generatedAttendance: AttendanceRecord[] = [
+  { studentId: '200', studentName: 'Student John', date: '2024-07-29', status: 'Present' },
 ];
 
-export const FEES_DATA: FeeRecord[] = [
-    { studentId: '101', studentName: 'Alice Johnson', amount: 1200, status: 'Paid', dueDate: '2024-07-20' },
-    { studentId: '102', studentName: 'Bob Williams', amount: 1200, status: 'Paid', dueDate: '2024-07-20' },
-    { studentId: '103', studentName: 'Charlie Brown', amount: 1200, status: 'Pending', dueDate: '2024-07-20' },
-    { studentId: '104', studentName: 'Diana Miller', amount: 1200, status: 'Paid', dueDate: '2024-07-20' },
-    { studentId: '105', studentName: 'Ethan Davis', amount: 1200, status: 'Pending', dueDate: '2024-07-20' },
-];
+studentNames.forEach((name, index) => {
+  const studentId = (201 + index).toString();
+  const studentClass = classes[Math.floor(Math.random() * classes.length)];
+  const attendance = Math.floor(Math.random() * 41) + 60; // 60-100%
+  const feesPaid = Math.random() > 0.3; // 70% chance of fees being paid
+
+  generatedStudents.push({
+    id: studentId,
+    name: name,
+    class: studentClass,
+    attendance: attendance,
+    feesPaid: feesPaid,
+  });
+
+  generatedFees.push({
+    studentId: studentId,
+    studentName: name,
+    amount: 1250,
+    status: feesPaid ? 'Paid' : 'Pending',
+    dueDate: '2024-08-20',
+  });
+
+  // Add attendance for today for all students
+  generatedAttendance.push({
+    studentId: studentId,
+    studentName: name,
+    date: '2024-07-29',
+    status: Math.random() > 0.2 ? 'Present' : 'Absent', // 80% chance of being present
+  });
+});
+
+
+export const STUDENTS_DATA: Student[] = generatedStudents;
+export const ATTENDANCE_DATA: AttendanceRecord[] = generatedAttendance;
+export const FEES_DATA: FeeRecord[] = generatedFees;
+
+// --- END: New Randomized Student Data ---
 
 
 export const NAV_LINKS = {
