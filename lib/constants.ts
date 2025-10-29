@@ -7,13 +7,6 @@ export const MOCK_USERS: User[] = [
   { id: '3', name: 'Student John', email: 'student@university.com', role: Role.STUDENT, avatar: 'https://picsum.photos/seed/student/100' },
 ];
 
-export const TEACHERS_DATA: Teacher[] = [
-    { id: '2', name: 'Teacher Smith', email: 'teacher@university.com', avatar: 'https://picsum.photos/seed/teacher/100', assignedClasses: ['CS101', 'CS102'] },
-    { id: '4', name: 'Eleanor Vance', email: 'eleanor.vance@university.com', avatar: 'https://picsum.photos/seed/teacher2/100', assignedClasses: ['CS103', 'PHY201'] },
-    { id: '5', name: 'Marcus Holloway', email: 'marcus.holloway@university.com', avatar: 'https://picsum.photos/seed/teacher3/100', assignedClasses: ['MATH101', 'STAT210'] },
-    { id: '6', name: 'Clara Oswald', email: 'clara.oswald@university.com', avatar: 'https://picsum.photos/seed/teacher4/100', assignedClasses: ['ENG101', 'LIT305'] },
-];
-
 // --- START: New Randomized Student Data ---
 
 const studentNames = [
@@ -23,7 +16,7 @@ const studentNames = [
   "William Baker", "Evelyn King", "Michael Hill", "Abigail Nelson", "Daniel Campbell"
 ];
 
-const classes = ['CS101', 'CS102', 'PHY201', 'MATH101', 'ENG101', 'STAT210'];
+export const classes = ['CS101', 'CS102', 'PHY201', 'MATH101', 'ENG101', 'STAT210', 'LIT305', 'CS103'];
 
 const generatedStudents: Student[] = [
   // Ensure the mock login student exists so the student dashboard works

@@ -1,4 +1,3 @@
-
 const { PrismaClient } = require('@prisma/client');
 const bcrypt = require('bcrypt');
 
@@ -22,18 +21,37 @@ async function main() {
             email: 'admin@university.com',
             role: 'ADMIN',
             passwordHash: hashedAdminPassword,
+            avatar: 'https://picsum.photos/seed/admin/100',
         },
     });
 
-    // Create Teacher
-    const teacher = await prisma.user.create({
+    // Create Teachers
+    await prisma.user.create({
         data: {
             name: 'Teacher Smith',
             email: 'teacher@university.com',
             role: 'TEACHER',
             passwordHash: hashedTeacherPassword,
+            avatar: 'https://picsum.photos/seed/teacher/100',
+            assignedClasses: ['CS101', 'CS102'],
         },
     });
+
+    const otherTeachers = [
+        { name: 'Eleanor Vance', email: 'eleanor.vance@university.com', avatar: 'https://picsum.photos/seed/teacher2/100', assignedClasses: ['PHY201', 'CS103'] },
+        { name: 'Marcus Holloway', email: 'marcus.holloway@university.com', avatar: 'https://picsum.photos/seed/teacher3/100', assignedClasses: ['MATH101', 'STAT210'] },
+        { name: 'Clara Oswald', email: 'clara.oswald@university.com', avatar: 'https://picsum.photos/seed/teacher4/100', assignedClasses: ['ENG101', 'LIT305'] },
+    ];
+
+    for (const t of otherTeachers) {
+        await prisma.user.create({
+            data: {
+                ...t,
+                role: 'TEACHER',
+                passwordHash: await bcrypt.hash(teacherPassword, 10),
+            }
+        });
+    }
 
     // Create Students
     const student1User = await prisma.user.create({
@@ -42,6 +60,7 @@ async function main() {
             email: 'student@university.com',
             role: 'STUDENT',
             passwordHash: hashedStudentPassword,
+            avatar: 'https://picsum.photos/seed/student/100',
             student: {
                 create: {
                     rollNo: 'S001',
@@ -58,6 +77,7 @@ async function main() {
             email: 'jane.doe@university.com',
             role: 'STUDENT',
             passwordHash: await bcrypt.hash('password123', 10),
+            avatar: 'https://picsum.photos/seed/student2/100',
             student: {
                 create: {
                     rollNo: 'S002',
