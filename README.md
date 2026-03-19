@@ -1,4 +1,5 @@
-
+Visit site:
+      https://mabdullah236.github.io/UVAP/
 
 ## Run Locally
 
@@ -11,7 +12,7 @@
 3. Run the app:
    `npm run dev`
 
-This is a frontend-only demo project.
+This is a demo(practice) project.
 
 # Author
    Muhammad Abdullah
