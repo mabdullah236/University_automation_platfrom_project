@@ -1,0 +1,67 @@
+Starting Debug...
+Connected to DB
+--- First 50 Courses ---
+Title: Introduction to ICT , Code: GS-101, Credits: 3
+Title: Programming Fundamentals , Code: CSC-101, Credits: 4
+Title:  English Composition & Comprehension, Code: GS-102, Credits: 3
+Title: Calculus & Analytical Geometry , Code: MT-101, Credits: 3
+Title: Applied Physics, Code: PHY-201, Credits: 3
+Title: Zero Mathematics (Part I)*, Code: undefined, Credits: 3
+Title: Digital Logic Design , Code: CSC-111, Credits: 3
+Title:  Object Oriented Programming , Code: CSC-102, Credits: 4
+Title: Communication & Presentation Skills, Code: GE-104, Credits: 3
+Title: Probability & Statistics , Code: STT-101, Credits: 3
+Title: University Elective-I, Code: undefined, Credits: 3
+Title: Zero Mathematics (Part II)*, Code: undefined, Credits: 3
+Title: Comp Organization & Assembly Language, Code: CC-210, Credits: 2
+Title: Data Structures & Algorithms, Code: CSC-201, Credits: 4
+Title:  Discrete Structures, Code: CSC-110, Credits: 3
+Title: Professional Practices , Code: SSH-402, Credits: 2
+Title: CS Supporting-I, Code: undefined, Credits: 3
+Title: Design & Analysis of Algorithms, Code: DC-321, Credits: 3
+Title: Theory of Automata , Code: CSC-302, Credits: 3
+Title: Database Systems , Code: CSC-103, Credits: 4
+Title: Linear Algebra , Code: MTH-103, Credits: 3
+Title:  University Elective-II, Code: undefined, Credits: 3
+Title: Compiler Construction , Code: CSC-312, Credits: 3
+Title: CS Supporting-II , Code: undefined, Credits: 3
+Title:  Operating Systems , Code: CSC-301, Credits: 3
+Title: Software Engineering , Code: CSC-205, Credits: 3
+Title: Artificial Intelligence , Code: CSC-203, Credits: 3
+Title: Computer Networks, Code: CSC-204, Credits: 3
+Title: CS Elective-I, Code: undefined, Credits: 3
+Title: CS Elective-II, Code: undefined, Credits: 3
+Title:  CS Elective-III, Code: undefined, Credits: 3
+Title: CS Elective-IV, Code: undefined, Credits: 2
+Title:  Final Year Project-I , Code: CSC-498, Credits: 3
+Title: Parallel & Distributed Computing , Code: CSC-314, Credits: 3
+Title: Pakistan Studies, Code: GE-103, Credits: 2
+Title: CS Elective-V , Code: undefined, Credits: 3
+Title:  University Elective-IV, Code: undefined, Credits: 2
+Title: Final Year Project — II , Code: CSC-499, Credits: 4
+Title:  Islamic Studies/ Ethics, Code: IS-201, Credits: 2
+Title: Introduction to ICT, Code: GE-101, Credits: 3
+Title: Programming Fundamentals, Code: SE-101, Credits: 3
+Title: English Composition & Comprehension, Code: GE-102, Credits: 3
+Title:  Calculus and Analytical Geometry, Code: ME-101, Credits: 3
+Title:  Pakistan Studies, Code: GE-103, Credits: 2
+Title: Applied Physics, Code: NS-101, Credits: 3
+Title: Software Branding and Graphic Design (AR, Conva Pro etc.), Code: UE-101, Credits: 2
+Title: CS Supporting-III, Code: undefined, Credits: 3
+Title: Technical & Business Writing, Code: ENG-401, Credits: 3
+Title: University Elective-III , Code: undefined, Credits: 2
+Title:  Information Security , Code: CSC-202, Credits: 3
+
+--- Allocations Found ---
+Course: Introduction to ICT, Section: E1, Program: BSSE, Semester: 1
+Course: Introduction to ICT , Section: M1, Program: BSCS, Semester: 1
+Course: Introduction to ICT , Section: E1, Program: BSCS, Semester: 1
+Course: Introduction to ICT , Section: E2, Program: BSCS, Semester: 1
+Course: Introduction to ICT , Section: E3, Program: BSCS, Semester: 1
+Course: Introduction to ICT , Section: M2, Program: BSCS, Semester: 1
+Course: Introduction to ICT , Section: M3, Program: BSCS, Semester: 1
+Course: Introduction to ICT, Section: E2, Program: BSSE, Semester: 1
+Course: Introduction to ICT, Section: E3, Program: BSSE, Semester: 1
+Course: Introduction to ICT, Section: M1, Program: BSSE, Semester: 1
+Course: Introduction to ICT, Section: M2, Program: BSSE, Semester: 1
+Course: Introduction to ICT, Section: M3, Program: BSSE, Semester: 1

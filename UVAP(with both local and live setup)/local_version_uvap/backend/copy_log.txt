@@ -1,0 +1,290 @@
+Starting copy process... 
+Copying to Admin Service... 
+A subdirectory or file admin-service\src\controllers already exists.
+src\controllers\admissionController.js
+src\controllers\advancedController.js
+src\controllers\alumniController.js
+src\controllers\attendanceController.js
+src\controllers\authController.js
+src\controllers\complaintController.js
+src\controllers\courseController.js
+src\controllers\eventController.js
+src\controllers\examController.js
+src\controllers\facilityController.js
+src\controllers\facultyController.js
+src\controllers\financeController.js
+src\controllers\hostelController.js
+src\controllers\hrController.js
+src\controllers\inventoryController.js
+src\controllers\libraryController.js
+src\controllers\lmsController.js
+src\controllers\resultController.js
+src\controllers\reviewController.js
+src\controllers\settingsController.js
+src\controllers\statsController.js
+src\controllers\studentController.js
+src\controllers\timetableController.js
+src\controllers\transportController.js
+24 File(s) copied
+A subdirectory or file admin-service\src\routes already exists.
+src\routes\admissionRoutes.js
+src\routes\advancedRoutes.js
+src\routes\alumniRoutes.js
+src\routes\attendanceRoutes.js
+src\routes\authRoutes.js
+src\routes\complaintRoutes.js
+src\routes\courseRoutes.js
+src\routes\eventRoutes.js
+src\routes\examRoutes.js
+src\routes\facilityRoutes.js
+src\routes\facultyRoutes.js
+src\routes\financeRoutes.js
+src\routes\hostelRoutes.js
+src\routes\hrRoutes.js
+src\routes\inventoryRoutes.js
+src\routes\libraryRoutes.js
+src\routes\lmsRoutes.js
+src\routes\resultRoutes.js
+src\routes\reviewRoutes.js
+src\routes\settingsRoutes.js
+src\routes\studentRoutes.js
+src\routes\timetableRoutes.js
+src\routes\transportRoutes.js
+23 File(s) copied
+A subdirectory or file admin-service\src\models already exists.
+src\models\AdminProfile.js
+src\models\Admission.js
+src\models\Alumni.js
+src\models\Attendance.js
+src\models\Book.js
+src\models\BorrowRecord.js
+src\models\Complaint.js
+src\models\Course.js
+src\models\CourseAllocation.js
+src\models\Event.js
+src\models\Exam.js
+src\models\FacultyProfile.js
+src\models\FeeVoucher.js
+src\models\Hostel.js
+src\models\Inventory.js
+src\models\Material.js
+src\models\Payroll.js
+src\models\Result.js
+src\models\StudentProfile.js
+src\models\SystemConfig.js
+src\models\Timetable.js
+src\models\Transport.js
+src\models\User.js
+23 File(s) copied
+A subdirectory or file admin-service\src\middleware already exists.
+src\middleware\authMiddleware.js
+src\middleware\errorMiddleware.js
+src\middleware\uploadMiddleware.js
+3 File(s) copied
+src\utils\check_db.js
+src\utils\check_indexes.js
+src\utils\debug_students.js
+src\utils\emailService.js
+src\utils\fix_indexes.js
+src\utils\force_drop_index.js
+src\utils\force_fix_emails.js
+src\utils\migrate_email.js
+src\utils\migrate_student_status.js
+src\utils\sync_indexes.js
+10 File(s) copied
+src\services\paymentService.js
+src\services\smsService.js
+2 File(s) copied
+Copying to Faculty Service... 
+A subdirectory or file faculty-service\src\controllers already exists.
+src\controllers\admissionController.js
+src\controllers\advancedController.js
+src\controllers\alumniController.js
+src\controllers\attendanceController.js
+src\controllers\authController.js
+src\controllers\complaintController.js
+src\controllers\courseController.js
+src\controllers\eventController.js
+src\controllers\examController.js
+src\controllers\facilityController.js
+src\controllers\facultyController.js
+src\controllers\financeController.js
+src\controllers\hostelController.js
+src\controllers\hrController.js
+src\controllers\inventoryController.js
+src\controllers\libraryController.js
+src\controllers\lmsController.js
+src\controllers\resultController.js
+src\controllers\reviewController.js
+src\controllers\settingsController.js
+src\controllers\statsController.js
+src\controllers\studentController.js
+src\controllers\timetableController.js
+src\controllers\transportController.js
+24 File(s) copied
+A subdirectory or file faculty-service\src\routes already exists.
+src\routes\admissionRoutes.js
+src\routes\advancedRoutes.js
+src\routes\alumniRoutes.js
+src\routes\attendanceRoutes.js
+src\routes\authRoutes.js
+src\routes\complaintRoutes.js
+src\routes\courseRoutes.js
+src\routes\eventRoutes.js
+src\routes\examRoutes.js
+src\routes\facilityRoutes.js
+src\routes\facultyRoutes.js
+src\routes\financeRoutes.js
+src\routes\hostelRoutes.js
+src\routes\hrRoutes.js
+src\routes\inventoryRoutes.js
+src\routes\libraryRoutes.js
+src\routes\lmsRoutes.js
+src\routes\resultRoutes.js
+src\routes\reviewRoutes.js
+src\routes\settingsRoutes.js
+src\routes\studentRoutes.js
+src\routes\timetableRoutes.js
+src\routes\transportRoutes.js
+23 File(s) copied
+A subdirectory or file faculty-service\src\models already exists.
+src\models\AdminProfile.js
+src\models\Admission.js
+src\models\Alumni.js
+src\models\Attendance.js
+src\models\Book.js
+src\models\BorrowRecord.js
+src\models\Complaint.js
+src\models\Course.js
+src\models\CourseAllocation.js
+src\models\Event.js
+src\models\Exam.js
+src\models\FacultyProfile.js
+src\models\FeeVoucher.js
+src\models\Hostel.js
+src\models\Inventory.js
+src\models\Material.js
+src\models\Payroll.js
+src\models\Result.js
+src\models\StudentProfile.js
+src\models\SystemConfig.js
+src\models\Timetable.js
+src\models\Transport.js
+src\models\User.js
+23 File(s) copied
+A subdirectory or file faculty-service\src\middleware already exists.
+src\middleware\authMiddleware.js
+src\middleware\errorMiddleware.js
+src\middleware\uploadMiddleware.js
+3 File(s) copied
+src\utils\check_db.js
+src\utils\check_indexes.js
+src\utils\debug_students.js
+src\utils\emailService.js
+src\utils\fix_indexes.js
+src\utils\force_drop_index.js
+src\utils\force_fix_emails.js
+src\utils\migrate_email.js
+src\utils\migrate_student_status.js
+src\utils\sync_indexes.js
+10 File(s) copied
+src\services\paymentService.js
+src\services\smsService.js
+2 File(s) copied
+Copying to Student Service... 
+A subdirectory or file student-service\src\controllers already exists.
+src\controllers\admissionController.js
+src\controllers\advancedController.js
+src\controllers\alumniController.js
+src\controllers\attendanceController.js
+src\controllers\authController.js
+src\controllers\complaintController.js
+src\controllers\courseController.js
+src\controllers\eventController.js
+src\controllers\examController.js
+src\controllers\facilityController.js
+src\controllers\facultyController.js
+src\controllers\financeController.js
+src\controllers\hostelController.js
+src\controllers\hrController.js
+src\controllers\inventoryController.js
+src\controllers\libraryController.js
+src\controllers\lmsController.js
+src\controllers\resultController.js
+src\controllers\reviewController.js
+src\controllers\settingsController.js
+src\controllers\statsController.js
+src\controllers\studentController.js
+src\controllers\timetableController.js
+src\controllers\transportController.js
+24 File(s) copied
+A subdirectory or file student-service\src\routes already exists.
+src\routes\admissionRoutes.js
+src\routes\advancedRoutes.js
+src\routes\alumniRoutes.js
+src\routes\attendanceRoutes.js
+src\routes\authRoutes.js
+src\routes\complaintRoutes.js
+src\routes\courseRoutes.js
+src\routes\eventRoutes.js
+src\routes\examRoutes.js
+src\routes\facilityRoutes.js
+src\routes\facultyRoutes.js
+src\routes\financeRoutes.js
+src\routes\hostelRoutes.js
+src\routes\hrRoutes.js
+src\routes\inventoryRoutes.js
+src\routes\libraryRoutes.js
+src\routes\lmsRoutes.js
+src\routes\resultRoutes.js
+src\routes\reviewRoutes.js
+src\routes\settingsRoutes.js
+src\routes\studentRoutes.js
+src\routes\timetableRoutes.js
+src\routes\transportRoutes.js
+23 File(s) copied
+A subdirectory or file student-service\src\models already exists.
+src\models\AdminProfile.js
+src\models\Admission.js
+src\models\Alumni.js
+src\models\Attendance.js
+src\models\Book.js
+src\models\BorrowRecord.js
+src\models\Complaint.js
+src\models\Course.js
+src\models\CourseAllocation.js
+src\models\Event.js
+src\models\Exam.js
+src\models\FacultyProfile.js
+src\models\FeeVoucher.js
+src\models\Hostel.js
+src\models\Inventory.js
+src\models\Material.js
+src\models\Payroll.js
+src\models\Result.js
+src\models\StudentProfile.js
+src\models\SystemConfig.js
+src\models\Timetable.js
+src\models\Transport.js
+src\models\User.js
+23 File(s) copied
+A subdirectory or file student-service\src\middleware already exists.
+src\middleware\authMiddleware.js
+src\middleware\errorMiddleware.js
+src\middleware\uploadMiddleware.js
+3 File(s) copied
+src\utils\check_db.js
+src\utils\check_indexes.js
+src\utils\debug_students.js
+src\utils\emailService.js
+src\utils\fix_indexes.js
+src\utils\force_drop_index.js
+src\utils\force_fix_emails.js
+src\utils\migrate_email.js
+src\utils\migrate_student_status.js
+src\utils\sync_indexes.js
+10 File(s) copied
+src\services\paymentService.js
+src\services\smsService.js
+2 File(s) copied
+Done. 

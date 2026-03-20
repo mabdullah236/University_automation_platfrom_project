@@ -1,0 +1,934 @@
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"CS"}
+REQ QUERY: {"status":"Active","department":"SE"}
+REQ QUERY: {"status":"Active","department":"BBA"}
+REQ QUERY: {"status":"Active","department":"EE"}
+REQ QUERY: {"status":"Active","department":"Math"}
+REQ QUERY: {"status":"Active","department":"CS"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Archived"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Archived"}
+REQ QUERY: {"status":"Archived"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Alumni"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Archived"}
+REQ QUERY: {"status":"Alumni"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Archived"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Alumni"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"CS"}
+REQ QUERY: {"status":"Active","department":"CS"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"SE"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"CS"}
+REQ QUERY: {"status":"Active","department":"SE"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Archived"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Archived"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Archived"}
+REQ QUERY: {"status":"Archived"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Archived"}
+REQ QUERY: {"status":"Alumni"}
+REQ QUERY: {"status":"Archived"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"CS"}
+REQ QUERY: {"status":"Active","department":"SE"}
+REQ QUERY: {"status":"Active","department":"BBA"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Archived"}
+REQ QUERY: {"status":"Alumni"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Archived"}
+REQ QUERY: {"status":"Archived"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"SE"}
+REQ QUERY: {"status":"Active","department":"CS"}
+REQ QUERY: {"status":"Archived","department":"CS"}
+REQ QUERY: {"status":"Alumni","department":"CS"}
+REQ QUERY: {"status":"Archived","department":"CS"}
+REQ QUERY: {"status":"Archived","department":"CS"}
+REQ QUERY: {"status":"Active","department":"CS"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Alumni"}
+REQ QUERY: {"status":"Archived"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"BBA"}
+REQ QUERY: {"status":"Active","department":"EE"}
+REQ QUERY: {"status":"Active","department":"Math"}
+REQ QUERY: {"status":"Active","department":"CS"}
+REQ QUERY: {"status":"Active","department":"SE"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"CS"}
+REQ QUERY: {"status":"Active","department":"CS","semester":"2"}
+REQ QUERY: {"status":"Active","department":"CS","semester":"1"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Archived"}
+REQ QUERY: {"status":"Alumni"}
+REQ QUERY: {"status":"Archived"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"CS"}
+REQ QUERY: {"status":"Active","department":"SE"}
+REQ QUERY: {"status":"Active","department":"BBA"}
+REQ QUERY: {"status":"Active","department":"EE"}
+REQ QUERY: {"status":"Active","department":"Math"}
+REQ QUERY: {"status":"Active","department":"EE"}
+REQ QUERY: {"status":"Active","department":"BBA"}
+REQ QUERY: {"status":"Active","department":"SE"}
+REQ QUERY: {"status":"Active","department":"CS"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","shift":"Morning"}
+REQ QUERY: {"status":"Active","shift":"Evening"}
+REQ QUERY: {"status":"Active","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"CS","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"SE","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"BBA","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"EE","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"Math","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"Math"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","shift":"Morning"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","shift":"Evening"}
+REQ QUERY: {"status":"Active","shift":"Morning"}
+REQ QUERY: {"status":"Active","shift":"Evening"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"CS"}
+REQ QUERY: {"status":"Active","department":"CS","shift":"Evening"}
+REQ QUERY: {"status":"Active","department":"SE","shift":"Evening"}
+REQ QUERY: {"status":"Active","department":"SE","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"CS","shift":"Morning"}
+REQ QUERY: {"status":"Active","shift":"Morning"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","shift":"Evening"}
+REQ QUERY: {"status":"Active","shift":"Morning"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","shift":"Morning"}
+REQ QUERY: {"status":"Active","shift":"Evening"}
+REQ QUERY: {"status":"Active","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"CS","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"SE","shift":"Morning"}
+REQ QUERY: {"status":"Active","shift":"Morning"}
+REQ QUERY: {"status":"Active","shift":"Morning"}
+REQ QUERY: {"status":"Active","shift":"Morning"}
+REQ QUERY: {"status":"Active","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"CS","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"CS","shift":"Evening"}
+REQ QUERY: {"status":"Active","department":"SE","shift":"Evening"}
+REQ QUERY: {"status":"Active","department":"BBA","shift":"Evening"}
+REQ QUERY: {"status":"Active","department":"EE","shift":"Evening"}
+REQ QUERY: {"status":"Active","department":"Math","shift":"Evening"}
+REQ QUERY: {"status":"Active","department":"BBA","shift":"Evening"}
+REQ QUERY: {"status":"Active","department":"SE","shift":"Evening"}
+REQ QUERY: {"status":"Active","department":"CS","shift":"Evening"}
+REQ QUERY: {"status":"Active","shift":"Evening"}
+REQ QUERY: {"status":"Active","shift":"Morning"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Archived"}
+REQ QUERY: {"status":"Alumni"}
+REQ QUERY: {"status":"Archived"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Archived"}
+REQ QUERY: {"status":"Alumni"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"M1"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"M1"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"M1"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"M2"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"M2"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"M2"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"E1"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"E1"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"E1"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","shift":"Morning"}
+REQ QUERY: {"status":"Active","shift":"Evening"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"CS"}
+REQ QUERY: {"status":"Active","department":"CS","semester":"2"}
+REQ QUERY: {"status":"Active","department":"CS"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {}
+REQ QUERY: {}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","shift":"Morning"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"CS","shift":"Morning"}
+REQ QUERY: {"status":"Active","shift":"Morning"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"CS"}
+REQ QUERY: {"status":"Active","department":"CS","shift":"Evening"}
+REQ QUERY: {"status":"Active","department":"CS","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"CS","semester":"2","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"CS","semester":"1","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"SE","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"BBA","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"EE","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"Math","shift":"Morning"}
+REQ QUERY: {"status":"Active","shift":"Morning"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","batch":"2022"}
+REQ QUERY: {"status":"Active","batch":"2023"}
+REQ QUERY: {"status":"Active","shift":"Morning","batch":"2023"}
+REQ QUERY: {"status":"Active","shift":"Morning","batch":"2025"}
+REQ QUERY: {"status":"Active","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"CS","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"CS","shift":"Morning","batch":"2023"}
+REQ QUERY: {"status":"Active","department":"CS","semester":"1","shift":"Morning","batch":"2023"}
+REQ QUERY: {"status":"Active","department":"CS","semester":"1","shift":"Evening","batch":"2023"}
+REQ QUERY: {"status":"Active","department":"CS","semester":"2","shift":"Evening","batch":"2023"}
+REQ QUERY: {"status":"Active","department":"CS","semester":"1","shift":"Evening","batch":"2023"}
+REQ QUERY: {"status":"Active","department":"CS","shift":"Evening","batch":"2023"}
+REQ QUERY: {"status":"Active","department":"SE","shift":"Evening","batch":"2023"}
+REQ QUERY: {"status":"Active","department":"BBA","shift":"Evening","batch":"2023"}
+REQ QUERY: {"status":"Active","department":"EE","shift":"Evening","batch":"2023"}
+REQ QUERY: {"status":"Active","department":"Math","shift":"Evening","batch":"2023"}
+REQ QUERY: {"status":"Active","department":"Math","shift":"Evening"}
+REQ QUERY: {"status":"Active","department":"Math"}
+REQ QUERY: {"status":"Active","department":"EE"}
+REQ QUERY: {"status":"Active","department":"BBA"}
+REQ QUERY: {"status":"Active","department":"SE"}
+REQ QUERY: {"status":"Active","department":"CS"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Archived"}
+REQ QUERY: {"status":"Alumni"}
+REQ QUERY: {"status":"Alumni","batch":"2024"}
+REQ QUERY: {"status":"Alumni"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A","batch":"2023"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active","department":"Information Technology"}
+REQ QUERY: {"status":"Active","department":"Software Engineering"}
+REQ QUERY: {"status":"Active","department":"Information Technology"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Archived"}
+REQ QUERY: {"status":"Alumni"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active","department":"Information Technology"}
+REQ QUERY: {"status":"Active","department":"Software Engineering"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active","department":"Information Technology"}
+REQ QUERY: {"status":"Active","department":"Software Engineering"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active","department":"Information Technology"}
+REQ QUERY: {"status":"Active","department":"Software Engineering"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active","department":"Information Technology"}
+REQ QUERY: {"status":"Active","department":"Software Engineering"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Archived"}
+REQ QUERY: {"status":"Archived","department":"Artificial Intelligence"}
+REQ QUERY: {"status":"Archived","department":"Computer Science"}
+REQ QUERY: {"status":"Archived","department":"Information Technology"}
+REQ QUERY: {"status":"Archived","department":"Software Engineering"}
+REQ QUERY: {"status":"Archived","department":"Artificial Intelligence"}
+REQ QUERY: {"status":"Archived"}
+REQ QUERY: {"status":"Alumni"}
+REQ QUERY: {"status":"Alumni","department":"Artificial Intelligence"}
+REQ QUERY: {"status":"Alumni","department":"Computer Science"}
+REQ QUERY: {"status":"Alumni","department":"Information Technology"}
+REQ QUERY: {"status":"Alumni","department":"Software Engineering"}
+REQ QUERY: {"status":"Alumni","department":"Artificial Intelligence"}
+REQ QUERY: {"status":"Alumni"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Archived","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSSE","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSSE","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSSE","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSSE","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Archived"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Archived","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Alumni","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Alumni"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Alumni"}
+REQ QUERY: {"status":"Archived"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Archived"}
+REQ QUERY: {"status":"Alumni"}
+REQ QUERY: {"status":"Archived"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Artificial Intelligence"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active","department":"Information Technology"}
+REQ QUERY: {"status":"Active","department":"Software Engineering"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Artificial Intelligence"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active","department":"Information Technology"}
+REQ QUERY: {"status":"Active","department":"Software Engineering"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Artificial Intelligence"}
+REQ QUERY: {"status":"Active","department":"Software Engineering"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Software Engineering"}
+REQ QUERY: {"status":"Active","department":"Software Engineering"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Software Engineering"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","shift":"Morning","batch":"2026"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","shift":"Morning","batch":"2025"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","semester":"1","shift":"Morning","batch":"2025"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","semester":"2","shift":"Morning","batch":"2025"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","semester":"1","shift":"Morning","batch":"2025"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","semester":"1","shift":"Evening","batch":"2025"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Software Engineering"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","shift":"Evening"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","shift":"Evening","batch":"2025"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","semester":"1","shift":"Evening","batch":"2025"}
+REQ QUERY: {"status":"Active","shift":"Evening","batch":"2025"}
+REQ QUERY: {"status":"Active","batch":"2025"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Software Engineering"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","shift":"Evening"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"Software Engineering"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active","department":"Computer Science","shift":"Morning"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active","department":"Computer Science","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active","department":"Computer Science","shift":"Evening"}
+REQ QUERY: {"status":"Active","shift":"Evening"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active","department":"Computer Science","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"Computer Science","shift":"Evening"}
+REQ QUERY: {"status":"Active","department":"Information Technology","shift":"Evening"}
+REQ QUERY: {"status":"Active","shift":"Evening"}
+REQ QUERY: {"status":"Active","department":"Information Technology","shift":"Evening"}
+REQ QUERY: {"status":"Active","department":"Information Technology","shift":"Morning"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Information Technology"}
+REQ QUERY: {"status":"Active","department":"Information Technology","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"Information Technology","shift":"Evening"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Information Technology"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Information Technology"}
+REQ QUERY: {"status":"Active","department":"Information Technology","shift":"Morning"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Information Technology"}
+REQ QUERY: {"status":"Active","department":"Information Technology","shift":"Morning"}
+REQ QUERY: {"status":"Active","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"Computer Science","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"Information Technology","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","shift":"Morning"}
+REQ QUERY: {"status":"Active","shift":"Morning"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active","department":"Computer Science","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"Computer Science","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"Computer Science","shift":"Morning"}
+REQ QUERY: {"status":"Archived","department":"Computer Science","shift":"Morning"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active","department":"Computer Science","shift":"Morning"}
+REQ QUERY: {"status":"Active","shift":"Morning"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","batch":"2025"}
+REQ QUERY: {"status":"Active","shift":"Morning","batch":"2025"}
+REQ QUERY: {"status":"Active","shift":"Evening","batch":"2025"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"A"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Archived","department":"Computer Science"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Archived"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"BSSE","semester":"1","section":"M1"}
+REQ QUERY: {"status":"Active","department":"BSSE","semester":"1","section":"M1"}
+REQ QUERY: {"status":"Active","department":"BSSE","semester":"1","section":"M1"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Software Engineering"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","shift":"Morning"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Software Engineering"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","shift":"Morning"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Software Engineering"}
+REQ QUERY: {"status":"Archived","department":"Software Engineering"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active","department":"Computer Science","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"Computer Science","shift":"Evening"}
+REQ QUERY: {"status":"Active","department":"English","shift":"Evening"}
+REQ QUERY: {"status":"Active","department":"Information Technology","shift":"Evening"}
+REQ QUERY: {"status":"Active","department":"Information Technology","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"Information Technology","shift":"Evening"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","shift":"Evening"}
+REQ QUERY: {"status":"Active","department":"Computer Science","shift":"Evening"}
+REQ QUERY: {"status":"Active","department":"Computer Science","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","shift":"Evening"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","shift":"Morning"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Software Engineering"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Software Engineering"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","shift":"Evening"}
+REQ QUERY: {"status":"Active","department":"Software Engineering"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Information Technology"}
+REQ QUERY: {"status":"Active","department":"Information Technology","shift":"Evening"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active","department":"Computer Science","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"Computer Science","shift":"Evening"}
+REQ QUERY: {"status":"Active","department":"English","shift":"Evening"}
+REQ QUERY: {"status":"Active","department":"Information Technology","shift":"Evening"}
+REQ QUERY: {"status":"Active","department":"Information Technology"}
+REQ QUERY: {"status":"Active","department":"Information Technology","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"Information Technology","shift":"Evening"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","shift":"Evening"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","shift":"Evening"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"Software Engineering"}
+REQ QUERY: {"status":"Active","department":"Information Technology"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Software Engineering"}
+REQ QUERY: {"status":"Active","department":"Information Technology"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active","department":"English"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Archived"}
+REQ QUERY: {"status":"Archived"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"E1"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"E1"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"E1"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"M1"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"M1"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"M1"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active","department":"English"}
+REQ QUERY: {"status":"Active","department":"English","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"English","shift":"Evening"}
+REQ QUERY: {"status":"Active","department":"Information Technology","shift":"Evening"}
+REQ QUERY: {"status":"Active","department":"Information Technology"}
+REQ QUERY: {"status":"Active","department":"Information Technology","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"Information Technology"}
+REQ QUERY: {"status":"Active","department":"Software Engineering"}
+REQ QUERY: {"status":"Active","department":"English"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Information Technology"}
+REQ QUERY: {"status":"Active","department":"Information Technology","shift":"Evening"}
+REQ QUERY: {"status":"Active","shift":"Evening"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","batch":"2022"}
+REQ QUERY: {"status":"Active","batch":"2023"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","batch":"2025"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"M1"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"M1"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"M1"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"M3"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"M3"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"M3"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"M3"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"M3"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"M3"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"E3"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"E3"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"E3"}
+REQ QUERY: {"status":"Active","department":"BSSE","semester":"1","section":"M1"}
+REQ QUERY: {"status":"Active","department":"BSSE","semester":"1","section":"M1"}
+REQ QUERY: {"status":"Active","department":"BSSE","semester":"1","section":"M1"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","batch":"2025"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Computer Science","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Information Technology","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","shift":"Evening","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","shift":"Evening","batch":"Fall 2025"}
+REQ QUERY: {"status":"Active","batch":"Fall 2025"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active","department":"Computer Science","semester":"2"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active","department":"Computer Science","shift":"Evening"}
+REQ QUERY: {"status":"Active","department":"Computer Science","shift":"Evening","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Computer Science","semester":"2","shift":"Evening","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Computer Science","semester":"1","shift":"Evening","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Computer Science","semester":"1","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Computer Science","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Computer Science","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"English","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Information Technology","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active","department":"Computer Science","semester":"1"}
+REQ QUERY: {"status":"Active","department":"Computer Science","semester":"1","section":"E1"}
+REQ QUERY: {"status":"Active","department":"Computer Science","semester":"1","section":"E1","batch":"Fall 2025"}
+REQ QUERY: {"status":"Active","section":"E1","batch":"Fall 2025"}
+REQ QUERY: {"status":"Active","department":"Computer Science","section":"E1","batch":"Fall 2025"}
+REQ QUERY: {"status":"Active","department":"Computer Science","batch":"Fall 2025"}
+REQ QUERY: {"status":"Active","department":"Computer Science","shift":"Morning","batch":"Fall 2025"}
+REQ QUERY: {"status":"Active","department":"Computer Science","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Computer Science","section":"E1","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Computer Science","semester":"1","section":"E1","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Computer Science","semester":"1","section":"M1","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Computer Science","semester":"1","section":"M1","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Computer Science","semester":"1","section":"M1","shift":"Evening","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Computer Science","semester":"2","section":"M1","shift":"Evening","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Computer Science","semester":"2","section":"M1","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Computer Science","semester":"1","section":"M1","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Computer Science","semester":"1","section":"M1","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Computer Science","semester":"1","section":"M1","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","section":"M1","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","section":"M1","shift":"Evening","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","section":"M1","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Computer Science","section":"M1","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Computer Science","section":"M1","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Computer Science","section":"M1","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Computer Science","semester":"1","section":"M1","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Computer Science","semester":"1","section":"M1","shift":"Morning"}
+REQ QUERY: {"status":"Active","department":"Computer Science","semester":"1","section":"M1"}
+REQ QUERY: {"status":"Active","department":"Computer Science","section":"M1"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active","department":"Computer Science","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Computer Science","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Computer Science","semester":"1","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Computer Science","semester":"1","section":"M1","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Computer Science","semester":"1","section":"M3","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Computer Science","semester":"1","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Information Technology","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Software Engineering"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","section":"M1"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","section":"M1","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","section":"M1","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","semester":"1","section":"M1","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","semester":"1","section":"M2","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","semester":"1","section":"M3","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","semester":"1","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Information Technology","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Software Engineering"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Software Engineering"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Software Engineering"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","section":"M1","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Software Engineering"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","department":"Software Engineering","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","shift":"Morning","batch":"TEST-2025"}
+REQ QUERY: {"status":"Active","shift":"Morning","batch":"Fall 2025"}
+REQ QUERY: {"status":"Active","department":"BSSE","semester":"1","section":"M1"}
+REQ QUERY: {"status":"Active","department":"BSSE","semester":"1","section":"M1"}
+REQ QUERY: {"status":"Active","department":"BSSE","semester":"1","section":"M1"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","batch":"Fall 2025"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","batch":"Fall 2025"}
+REQ QUERY: {"status":"Active","shift":"Morning","batch":"Fall 2025"}
+REQ QUERY: {"status":"Active","department":"Computer Science","shift":"Morning","batch":"Fall 2025"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active","department":"Computer Science","batch":"Fall 2025"}
+REQ QUERY: {"status":"Active","department":"Computer Science","shift":"Morning","batch":"Fall 2025"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Software Engineering"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"Computer Science"}
+REQ QUERY: {"status":"Active","department":"Information Technology"}
+REQ QUERY: {"status":"Active","department":"Software Engineering"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Archived"}
+REQ QUERY: {"status":"Archived"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Alumni"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Archived"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"M1"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"M1"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"M1"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {}
+REQ QUERY: {}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"M1"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"M1"}
+REQ QUERY: {"status":"Active","department":"BSCS","semester":"1","section":"M1"}
+REQ QUERY: {}
+REQ QUERY: {}
+REQ QUERY: {"status":"Active"}
+REQ QUERY: {"status":"Active"}

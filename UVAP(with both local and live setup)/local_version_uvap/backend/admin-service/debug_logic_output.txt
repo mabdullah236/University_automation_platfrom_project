@@ -1,0 +1,27 @@
+Starting Logic Debug...
+Connected to DB
+Found 12 allocations for ICT
+Allocation: BSSE 1 E1
+Course: Introduction to ICT, Credits: 3, Parsed: 3, SlotsNeeded: 3
+Allocation: BSCS 1 M1
+Course: Introduction to ICT , Credits: 3, Parsed: 3, SlotsNeeded: 3
+Allocation: BSCS 1 E1
+Course: Introduction to ICT , Credits: 3, Parsed: 3, SlotsNeeded: 3
+Allocation: BSCS 1 E2
+Course: Introduction to ICT , Credits: 3, Parsed: 3, SlotsNeeded: 3
+Allocation: BSCS 1 E3
+Course: Introduction to ICT , Credits: 3, Parsed: 3, SlotsNeeded: 3
+Allocation: BSCS 1 M2
+Course: Introduction to ICT , Credits: 3, Parsed: 3, SlotsNeeded: 3
+Allocation: BSCS 1 M3
+Course: Introduction to ICT , Credits: 3, Parsed: 3, SlotsNeeded: 3
+Allocation: BSSE 1 E2
+Course: Introduction to ICT, Credits: 3, Parsed: 3, SlotsNeeded: 3
+Allocation: BSSE 1 E3
+Course: Introduction to ICT, Credits: 3, Parsed: 3, SlotsNeeded: 3
+Allocation: BSSE 1 M1
+Course: Introduction to ICT, Credits: 3, Parsed: 3, SlotsNeeded: 3
+Allocation: BSSE 1 M2
+Course: Introduction to ICT, Credits: 3, Parsed: 3, SlotsNeeded: 3
+Allocation: BSSE 1 M3
+Course: Introduction to ICT, Credits: 3, Parsed: 3, SlotsNeeded: 3
