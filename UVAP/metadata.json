@@ -1,0 +1,5 @@
+{
+  "name": "University Automation Platform",
+  "description": "A responsive frontend for a university automation platform with separate dashboards for Admins, Teachers, and Students to manage attendance and fees.",
+  "requestFramePermissions": []
+}
